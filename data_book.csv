@@ -1,0 +1,17 @@
+spaceholder,spaceholder_
+CSF regression model prediction outputs.,
+Description of columns.,
+John Douglass (Environment Agency) 2014-04-08,
+,
+Suffix,desc
+out,Model prediction in scale of original linear response
+link,Model prediction in scale of link function normally logarithmic
+reduct,Percentage reduction from baseline
+,
+Prefix,desc
+base,baseline scenario
+extrap,extraolated scenario
+optim,optimised scenario
+max,maximum CSF scenario
+maxben,maximum agricultural benefit scenario
+head,agricultural headroom scenario
