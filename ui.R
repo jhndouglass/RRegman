@@ -1,5 +1,3 @@
-#setwd("~/ShinyApps/CSF_web_regman")
-
 load("moddat.rdata")
 site <- as.list(as.character(moddat$CATCHMENT))
 

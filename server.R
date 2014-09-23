@@ -6,9 +6,6 @@ library(maptools)
 library(Hmisc)
 library(GISTools)
 
-#setwd("~/ShinyApps/CSF_web_regman")
-#wd <- "~/ShinyApps/CSF_web_regman"
-
 # functions
 csf_rect <- function(line.loc, labels, Title, det, limit = NA,
                      useLimit = FALSE, ...){

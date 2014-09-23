@@ -1,6 +1,3 @@
-library(lme4)
-#setwd("~/ShinyApps/CSF_web_regman")
-
 # load CCM reduction data
 DP_reducts <- read.csv("DP_reducts.csv")
 TP_reducts <- read.csv("TP_reducts.csv")
